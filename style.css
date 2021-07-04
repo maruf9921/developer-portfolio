@@ -37,6 +37,9 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+#exp{
+    padding-left: 2%;
+}
 .experience-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
